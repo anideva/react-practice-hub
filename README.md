@@ -14,3 +14,9 @@ A structured workspace tracking my learning journey, core concepts, and micro-pr
 - React (Vite)
 - JavaScript / TypeScript
 - CSS / Tailwind CSS
+
+- ### 🛠️ How to Test This Code
+Since this is an isolated component file:
+1. Copy the code inside `CounterApp.jsx`.
+2. Open an online React environment like [OneCompiler React](https://onecompiler.com).
+3. Paste the code into the main application file (overwriting `App.js`) to see it run.
